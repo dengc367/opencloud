@@ -1,6 +1,6 @@
 README
 
-Author: Zhancheng Deng (email: zhancheng.deng@renren-inc.com)
+Author: Zhancheng Deng (email: zhan8610189@yahoo.com.cn)
 
 This fold contains the following subfolds:
 
