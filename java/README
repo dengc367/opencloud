@@ -1,0 +1,24 @@
+README
+
+Author: Zhancheng Deng (email: zhancheng.deng@renren-inc.com)
+
+1. Deploy and Run the Server
+
+if you want to deploy the Server, you just modify the IP in the script (deploy.sh), and run it:
+
+    ./deploy.sh
+
+
+
+2. Get the Client
+
+if you want to get the Client, you just run:
+    
+    mvn -U clean package 
+
+and then copy the jar in the subproject opencloud-client/target:
+   
+    opencloud-client.jar: without the dependency classes;
+    opencloud-client-jar-with-dependency.jar: with the dependency classes;
+
+if you have some problems, free to contact me: zhan8610189@yahoo.com.cn

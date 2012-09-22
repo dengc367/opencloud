@@ -1,0 +1,18 @@
+README
+
+Author: Zhancheng Deng (email: zhancheng.deng@renren-inc.com)
+
+The php Client for Open Cloud Platform
+
+Attension:
+
+you should install the following libs:
+
+	apt-get install libzookeeper (refer to: https://github.com/andreiz/php-zookeeper)
+
+and php modules:
+
+	pecl install apc
+	pecl install libevent
+	pecl install zookeeper
+
