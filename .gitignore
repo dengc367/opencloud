@@ -6,3 +6,4 @@ target
 .pyc
 .class
 .jar
+*~
